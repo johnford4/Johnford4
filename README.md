@@ -4,5 +4,3 @@
 
 - <b>Microsoft Azure</b>
   - [Azure Virtual Machine](https://github.com/johnford4/Creating-Virtual-Machine)
-- <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/johnford4/azure-network-protocols)
