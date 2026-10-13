@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/johnford4/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Azure Virtual Machine](https://github.com/johnford4/Creating-Virtual-Machine)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/johnford4/azure-network-protocols)
